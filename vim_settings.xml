@@ -1784,12 +1784,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" timestamp="1499985153922">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="110" column="39" />
-        <mark key="]" line="110" column="73" />
-        <mark key="." line="110" column="73" />
-        <mark key="^" line="110" column="73" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" timestamp="1499987159317">
+        <mark key="'" line="104" column="14" />
+        <mark key="[" line="110" column="10" />
+        <mark key="]" line="110" column="20" />
+        <mark key="." line="110" column="20" />
+        <mark key="^" line="110" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/tastyworks/account-FIX-service/src/main/java/com/tastyworks/fixdropcopy/DropCopyTask.java" timestamp="1481402331583">
         <mark key="[" line="5" column="26" />
@@ -7215,6 +7215,13 @@
         <mark key="^" line="46" column="52" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie-tw/src/main/java/com/dough/tw/service/TwAccountService.java" timestamp="1499987324902">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="57" column="5" />
+        <mark key="]" line="58" column="3" />
+        <mark key="^" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/runtime/main/java/com/dough/runtime/config/DoughModule.java" timestamp="1478206848149">
         <mark key="[" line="67" column="32" />
         <mark key="]" line="67" column="46" />
@@ -11897,7 +11904,7 @@
         <mark key="^" line="34" column="63" />
         <mark key="." line="34" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499983307965">
+      <file name="/Dummy.txt" timestamp="1499987135627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/ui/orderEntry/util/SimplePriceStepConfig.java" timestamp="1498688735140">
@@ -13838,6 +13845,9 @@
         <mark key="^" line="52" column="22" />
         <mark key="." line="52" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/resources/com/dough/desktop/app.css" timestamp="1499987014028">
+        <mark key="'" line="2142" column="142" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-order-chains-lib/src/main/java/com/dough/orderchains/compute/ComputeIVIndexAndRankSnapshots.java" timestamp="1458074658600">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="10" />
@@ -14896,18 +14906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="15" filename="$USER_HOME$/workspace/dough/dough-desktop/build.gradle" />
-      <jump line="51" column="20" filename="$USER_HOME$/workspace/dough/dough-desktop/build.gradle" />
-      <jump line="123" column="1" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_priceGraph.scss" />
-      <jump line="26" column="6" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_priceGraph.scss" />
-      <jump line="116" column="0" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/overlay/ActiveTraderOffscreenIndicatorView.java" />
-      <jump line="106" column="57" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderOrderEntryView.java" />
-      <jump line="8" column="31" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_orderEntry.scss" />
-      <jump line="15" column="5" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_orderEntry.scss" />
-      <jump line="51" column="34" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/tw/manager/TwSessionManager.java" />
-      <jump line="158" column="26" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/tw/manager/TwSessionManager.java" />
-      <jump line="169" column="34" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/tw/manager/TwSessionManager.java" />
-      <jump line="170" column="34" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/tw/manager/TwSessionManager.java" />
       <jump line="20" column="44" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/generated/com/dough/dx/net/DXFeedStreamer.h" />
       <jump line="54" column="24" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/generated/com/dough/dx/net/DXFeedStreamer.h" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/Common/Config/DoughAppContext.h" />
@@ -14996,13 +14994,25 @@
       <jump line="67" column="32" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
       <jump line="19" column="37" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
       <jump line="69" column="24" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/resources/com/dough/desktop/app.css" />
+      <jump line="2142" column="142" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/resources/com/dough/desktop/app.css" />
+      <jump line="14" column="6" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="74" column="10" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="83" column="12" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="77" column="12" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="86" column="10" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="96" column="14" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="100" column="14" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="104" column="14" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
+      <jump line="137" column="0" filename="$USER_HOME$/workspace/dough/dough-boulangerie-tw/src/main/java/com/dough/tw/service/TwAccountService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>w</text>
@@ -15011,40 +15021,40 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>gold</text>
+        <text>numeric-cell</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoaWdobGlnaHRlZEJpbmRhYmxlID0gUHNldWRvVXRpbC5iaW5kYWJsZSh0aGlzLCBQc2V1ZG9VdGlsLkhJR0hMSUdIVEVEKTsK</text>
+        <text encoding="base64">ICAgICAgICBUd0h0dHBDbGllbnQgaHR0cENsaWVudCwKICAgICAgICBUd09yZGVyU3RhdHVzU2VydmljZSBvcmRlclN0YXR1c1NlcnZpY2UsCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLWZ4LXRleHQtCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nQmluZGFibGUuYmluZChpdGVtUHJvcGVydHkoKS4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAudGV4dCB7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb3dUeXBlQmluZGFibGUgPSBQc2V1ZG9VdGlsLmJpbmRhYmxlKHRoaXMsIFBzZXVkb1V0aWwuSElHSExJR0hURUQpOwo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLWZ4LXRleHQtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHNldWRvVXRpbC5CaW5kYWJsZSByb3dUeXBlQmluZGFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nQmluZGFibGUuYmluZChpdGVtUHJvcGVydHkoKS4pOwo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByb3dUeXBlQmluZGFibGUgPSBQc2V1ZG9VdGlsLmJpbmRhYmxlKHRoaXMsIFBzZXVkb1V0aWwuSElHSExJR0hURUQpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15072,16 +15082,16 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHNldWRvVXRpbC5CaW5kYWJsZSByb3dUeXBlQmluZGFibGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Stocks/Futures/g</text>
       </register>
     </registers>
     <search>
-      <last-search>gold</last-search>
+      <last-search>numeric-cell</last-search>
       <last-offset />
-      <last-pattern>gold</last-pattern>
+      <last-pattern>numeric-cell</last-pattern>
       <last-replace>Futures</last-replace>
       <last-substitute>Stocks</last-substitute>
       <last-dir>1</last-dir>
@@ -15089,9 +15099,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setUnd</entry>
-        <entry>setSec</entry>
-        <entry>FUTURES</entry>
         <entry>lgog</entry>
         <entry>logg</entry>
         <entry>effect</entry>
@@ -15109,6 +15116,9 @@
         <entry>up-t</entry>
         <entry>orange</entry>
         <entry>gold</entry>
+        <entry>column-ask</entry>
+        <entry>text-fil</entry>
+        <entry>numeric-cell</entry>
       </history-search>
       <history-cmd>
         <entry>s/:filled/</entry>
