@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="com.tastyworks.json.JsonUtil.loadClassPathResourceAsObject(parentPackage,path)" />
+        <added pattern="com.tastyworks.margin.test.IntegrationUtil.parseResult(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

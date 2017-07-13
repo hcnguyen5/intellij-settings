@@ -1,0 +1,262 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true">
+            <sourceOutputDir name="build/generated/source/apt/main" />
+            <sourceTestOutputDir name="build/generated/source/apt/test" />
+            <outputRelativeToContentRoot value="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Downloads/jdk1.8.0_92/demo/javafx_samples/src/Ensemble8" value="1459478622000" />
+            <entry key="$USER_HOME$/workspace/WebSocket" value="4289192816000" />
+            <entry key="$USER_HOME$/workspace/controlsfx" value="8795545782000" />
+            <entry key="$USER_HOME$/workspace/dough-android-app" value="7210508493000" />
+            <entry key="$USER_HOME$/workspace/dough-android-lib" value="4306646769000" />
+            <entry key="$USER_HOME$/workspace/dough-boulangerie" value="4389859780000" />
+            <entry key="$USER_HOME$/workspace/dough-boulangerie-tda" value="2935379696000" />
+            <entry key="$USER_HOME$/workspace/dough-boulangerie-test" value="2946447332000" />
+            <entry key="$USER_HOME$/workspace/dough-boulangerie-tw" value="2946544701000" />
+            <entry key="$USER_HOME$/workspace/dough-desktop" value="2935743718000" />
+            <entry key="$USER_HOME$/workspace/dough-desktop-javafx" value="2929753060000" />
+            <entry key="$USER_HOME$/workspace/dough-edu-lib" value="2874859425000" />
+            <entry key="$USER_HOME$/workspace/dough-fifty-percent-pop" value="2906008483000" />
+            <entry key="$USER_HOME$/workspace/dough-futures-quotes-server" value="2851012528000" />
+            <entry key="$USER_HOME$/workspace/dough-order-chains-lib" value="2895655342000" />
+            <entry key="$USER_HOME$/workspace/dough-order-chains-server" value="2896774338000" />
+            <entry key="$USER_HOME$/workspace/dough-tv-lib" value="2874860271000" />
+            <entry key="$USER_HOME$/workspace/dough_iv_calc_server" value="2861769735000" />
+            <entry key="$USER_HOME$/workspace/dx-quote-snapshot" value="2882417726000" />
+            <entry key="$USER_HOME$/workspace/jared-vacanti-projects" value="2895380260000" />
+            <entry key="$USER_HOME$/workspace/stock-notabilities" value="2875206410000" />
+            <entry key="$USER_HOME$/workspace/tastytrade-xpression-datalinq" value="2889544863000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/account-FIX-service" value="2928212050000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/amargination" value="2969747352000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/amargination-server" value="2977141712000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/apex-drop-copy-daemon-java" value="2980205218000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/charcuterie" value="4407211556000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/customer-account-websocket-java" value="2932972985000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/documents-api" value="2962476936000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/order-chains-lib-java" value="2974030076000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/order-chains-server-java" value="2973524712000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/tastyworks-identity-permissions-enforcer-java" value="2944020715000" />
+            <entry key="$USER_HOME$/workspace/tastyworks/trade-desk-java" value="2959827828000" />
+            <entry key="$USER_HOME$/workspace/theo-android" value="5709789200000" />
+            <entry key="$USER_HOME$/workspace/tw/account-FIX-service" value="2926336688000" />
+            <entry key="$USER_HOME$/workspace/tw/caws-java" value="2901472916000" />
+            <entry key="$USER_HOME$/workspace/tw/charcuterie" value="2926332853000" />
+            <entry key="$USER_HOME$/workspace/tw/customer-account-websocket-java" value="2901597821000" />
+            <entry key="$USER_HOME$/workspace/tw/tastyworks-identity-permissions-enforcer-java" value="2928204768000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Security</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+              </State>
+              <State>
+                <id>Android Lint for Kotlin</id>
+              </State>
+              <State>
+                <id>Cloning issuesJava</id>
+              </State>
+              <State>
+                <id>Code StyleScala</id>
+              </State>
+              <State>
+                <id>CollectionsScala</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Naming conventionsJava</id>
+              </State>
+              <State>
+                <id>Scala</id>
+              </State>
+              <State>
+                <id>Simplifications: otherCollectionsScala</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager">
+        <ConfirmationsSetting value="1" id="Add" />
+        <ConfirmationsSetting value="2" id="Remove" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8.0_112" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="/Applications/VisualVM.app/Contents/Resources/visualvm/bin/visualvm" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <confirmRemoveEmptyChangelist value="2" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>scala-sdk-2.11.2</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8.0_152-ea-b01</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

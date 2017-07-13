@@ -1,0 +1,12 @@
+<templateSet group="dagger">
+  <template name="dgmi" value="MembersInjector&lt;$CLASS$&gt; get$CLASS$Injector();" description="Dagger MemberInjector" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="dginject" value="$CLASS$ inject($CLASS$ $NAME$);" description="Dagger inject" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="decapitalize(CLASS)" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

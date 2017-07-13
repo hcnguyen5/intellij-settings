@@ -1,0 +1,26 @@
+<application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="JAVADOC_STUB_ON_ENTER" value="false" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="java.security.Security" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="java.util.Observer" />
+    <EXCLUDED_PACKAGE NAME="javax.swing" />
+    <EXCLUDED_PACKAGE NAME="junit" />
+    <EXCLUDED_PACKAGE NAME="sun" />
+    <EXCLUDED_PACKAGE NAME="sun.jvm" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+</application>

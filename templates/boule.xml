@@ -1,0 +1,61 @@
+<templateSet group="boule">
+  <template name="bgs" value="public $TYPE$ get$BEAN_NAME$() {&#10;    return $FIELD_NAME$;&#10;}&#10;&#10;public void set$BEAN_NAME$($TYPE$ $FIELD_NAME$){&#10;    ChangeEvent event = willTrigger(Property.$FIELD_NAME$, this.$FIELD_NAME$, $FIELD_NAME$);&#10;    this.$FIELD_NAME$ = $FIELD_NAME$;&#10;    trigger(event);&#10;}$END$" description="Boule Getter Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELD_NAME" expression="suggestFirstVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="typeOfVariable(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <variable name="BEAN_NAME" expression="capitalize(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bpref" value="public $TYPE$ get$BEAN_NAME$() {&#10;    return $FIELD_NAME$.getValue();&#10;}&#10;&#10;public void set$BEAN_NAME$($TYPE$ $VAR_NAME$){&#10;    $FIELD_NAME$.setValue($VAR_NAME$);&#10;}$END$" description="Boule Preference Getter Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD_NAME" expression="suggestFirstVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="BEAN_NAME" expression="capitalize(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bbpref" value="private final BooleanField $FIELD_NAME$ = new BooleanField(this, Property.$FIELD_NAME$, $DEFAULT_VALUE$);&#10;&#10;public boolean get$BEAN_NAME$() {&#10;    return $FIELD_NAME$.getValue();&#10;}&#10;&#10;public void set$BEAN_NAME$(Boolean flag){&#10;    $FIELD_NAME$.setValue(flag);&#10;}&#10;$END$" description="Boule Boolean Preference Getter Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELD_NAME" expression="suggestFirstVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BEAN_NAME" expression="capitalize(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bipref" value="private final IntegerField $FIELD_NAME$ = new IntegerField(this, Property.$FIELD_NAME$, $DEFAULT_VALUE$);&#10;&#10;public int get$BEAN_NAME$() {&#10;    return $FIELD_NAME$.getValue();&#10;}&#10;&#10;public void set$BEAN_NAME$(Integer number){&#10;    $FIELD_NAME$.setValue(number);&#10;}&#10;$END$" description="Boule Integer Preference Getter Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELD_NAME" expression="suggestFirstVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BEAN_NAME" expression="capitalize(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bspref" value="private final StringField $FIELD_NAME$ = new StringField(this, Property.$FIELD_NAME$, $DEFAULT_VALUE$);&#10;&#10;public String get$BEAN_NAME$() {&#10;    return $FIELD_NAME$.getValue();&#10;}&#10;&#10;public void set$BEAN_NAME$(String flag){&#10;    $FIELD_NAME$.setValue(flag);&#10;}&#10;$END$" description="Boule Boolean Preference Getter Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELD_NAME" expression="suggestFirstVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BEAN_NAME" expression="capitalize(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bepref" value="private final EnumField&lt;$ENUM_TYPE$&gt; $field_name$ = new EnumField&lt;&gt;(this, Property.$FIELD_NAME$, $ENUM_TYPE$.$DEFAULT_VALUE$);&#10;&#10;public $ENUM_TYPE$ get$BEAN_NAME$() {&#10;    return $FIELD_NAME$.getValue();&#10;}&#10;&#10;public void set$BEAN_NAME$($ENUM_TYPE$ flag){&#10;    $FIELD_NAME$.setValue(flag);&#10;}&#10;$END$" description="Boule Enum Preference Getter Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="ENUM_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD_NAME" expression="suggestFirstVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BEAN_NAME" expression="capitalize(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bdpref" value="private final DoubleField $FIELD_NAME$ = new DoubleField(this, Property.$FIELD_NAME$, $DEFAULT_VALUE$);&#10;&#10;public double get$BEAN_NAME$() {&#10;    return $FIELD_NAME$.getValue();&#10;}&#10;&#10;public void set$BEAN_NAME$(Double number){&#10;    $FIELD_NAME$.setValue(number);&#10;}&#10;$END$" description="Boule Double Preference Getter Setter" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELD_NAME" expression="suggestFirstVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BEAN_NAME" expression="capitalize(FIELD_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

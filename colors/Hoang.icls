@@ -1,0 +1,14 @@
+<scheme name="Hoang" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Hack" />
+  <attributes>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

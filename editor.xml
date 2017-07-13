@@ -1,0 +1,17 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bREVIEW\b.*">
+      <option name="FOREGROUND" value="d4e6ff" />
+      <option name="BACKGROUND" value="0" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+  </component>
+</application>

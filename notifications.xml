@@ -1,0 +1,15 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <notification groupId="JRebel non-sticky" shouldLog="false" />
+    <notification groupId="JRebel sticky" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="SbtImportMessage" displayType="STICKY_BALLOON" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" />
+    <notification groupId="Vcs Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Notifications" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

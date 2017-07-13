@@ -1,0 +1,44 @@
+<code_scheme name="tw">
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+    <option name="LAYOUT_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+    <option name="MANIFEST_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+    <option name="OTHER_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+  </AndroidXmlCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
