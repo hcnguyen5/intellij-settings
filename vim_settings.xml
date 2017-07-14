@@ -6500,8 +6500,8 @@
         <mark key="." line="116" column="23" />
         <mark key="^" line="116" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1500042233355">
-        <mark key="[" line="0" column="27" />
+      <file name="/fragment.java" timestamp="1500043686254">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="15" />
@@ -11898,6 +11898,12 @@
         <mark key="." line="26" column="37" />
         <mark key="^" line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/appsettings/TradeSettingsView.java" timestamp="1500043677414">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/test/java/com/dough/model/WatchlistTest.java" timestamp="1452871984853">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="41" />
@@ -15365,7 +15371,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text>applyCss();.</text>
       </register>
       <register name="c" type="4">
         <text>w</text>
@@ -15374,7 +15380,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>applyCss();.</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
