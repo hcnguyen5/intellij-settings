@@ -1607,10 +1607,11 @@
         <mark key="." line="29" column="34" />
         <mark key="^" line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/tw/manager/TwSessionManager.java" timestamp="1499990273397">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/tw/manager/TwSessionManager.java" timestamp="1500044790588">
+        <mark key="[" line="249" column="67" />
+        <mark key="]" line="250" column="19" />
+        <mark key="." line="251" column="33" />
+        <mark key="^" line="250" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/scss/trade/activeTrader/_infoSidebar.scss" timestamp="1497905788265">
         <mark key="[" line="7" column="10" />
@@ -6500,7 +6501,7 @@
         <mark key="." line="116" column="23" />
         <mark key="^" line="116" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1500043686254">
+      <file name="/fragment.java" timestamp="1500044490370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -11898,11 +11899,10 @@
         <mark key="." line="26" column="37" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/appsettings/TradeSettingsView.java" timestamp="1500043677414">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="30" column="39" />
-        <mark key="^" line="30" column="39" />
-        <mark key="." line="30" column="39" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/appsettings/TradeSettingsView.java" timestamp="1500044434345">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/test/java/com/dough/model/WatchlistTest.java" timestamp="1452871984853">
         <mark key="[" line="33" column="41" />
@@ -15371,7 +15371,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>applyCss();.</text>
+        <text>remove(4);</text>
       </register>
       <register name="c" type="4">
         <text>w</text>
@@ -15380,7 +15380,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>applyCss();.</text>
+        <text>remove(4);</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -15392,28 +15392,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZhY3RvcnkoIkZVVFVSRVMiLCBUcmFkZUZ1dHVyZXNTZXR0aW5nc1ZpZXc6Om5ldykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRmFjdG9yeSgiRElTUExBWSIsIFRyYWRlRGlzcGxheVNldHRpbmdzVmlldzo6bmV3KSwKICAgICAgICAgICAgbmV3IEZhY3RvcnkoIk9SREVSIiwgVHJhZGVPcmRlclNldHRpbmdzVmlldzo6bmV3KSwKICAgICAgICAgICAgbmV3IEZhY3RvcnkoIlNUT0NLUyIsIFRyYWRlU3RvY2tzU2V0dGluZ3NWaWV3OjpuZXcpLAogICAgICAgICAgICBuZXcgRmFjdG9yeSgiT1BUSU9OUyIsIFRyYWRlT3B0aW9uc1NldHRpbmdzVmlldzo6bmV3KSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIEpzb25PYmplY3QgdHJhbnNmZXIgPSBKc29uVXRpbC5sb2FkQ2xhc3NQYXRoUmVzb3VyY2VBc09iamVjdChnZXRDbGFzcygpLCAidHJhbnNhY3Rpb24tdHJhbnNmZXIuanNvbiIpOwoK</text>
+        <text encoding="base64">ICAgICAgICBnZXRUYWJGYWN0b3JpZXMoKS5hZGRBbGwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGQKICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZhY3RvcnkoIkRJU1BMQVkiLCBUcmFkZURpc3BsYXlTZXR0aW5nc1ZpZXc6Om5ldyksCiAgICAgICAgICAgIG5ldyBGYWN0b3J5KCJPUkRFUiIsIFRyYWRlT3JkZXJTZXR0aW5nc1ZpZXc6Om5ldyksCiAgICAgICAgICAgIG5ldyBGYWN0b3J5KCJTVE9DS1MiLCBUcmFkZVN0b2Nrc1NldHRpbmdzVmlldzo6bmV3KSwKICAgICAgICAgICAgbmV3IEZhY3RvcnkoIk9QVElPTlMiLCBUcmFkZU9wdGlvbnNTZXR0aW5nc1ZpZXc6Om5ldyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZhY3RvcnkoIkRJU1BMQVkiLCBUcmFkZURpc3BsYXlTZXR0aW5nc1ZpZXc6Om5ldyksCiAgICAgICAgICAgIG5ldyBGYWN0b3J5KCJPUkRFUiIsIFRyYWRlT3JkZXJTZXR0aW5nc1ZpZXc6Om5ldyksCiAgICAgICAgICAgIG5ldyBGYWN0b3J5KCJTVE9DS1MiLCBUcmFkZVN0b2Nrc1NldHRpbmdzVmlldzo6bmV3KSwKICAgICAgICAgICAgbmV3IEZhY3RvcnkoIk9QVElPTlMiLCBUcmFkZU9wdGlvbnNTZXR0aW5nc1ZpZXc6Om5ldyksCiAgICAgICAgICAgIG5ldyBGYWN0b3J5KCJGVVRVUkVTIiwgVHJhZGVGdXR1cmVzU2V0dGluZ3NWaWV3OjpuZXcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldENoYW5uZWwoKS5iYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15435,13 +15435,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIEpzb25PYmplY3QgdHJhbnNmZXIgPSBKc29uVXRpbC5sb2FkQ2xhc3NQYXRoUmVzb3VyY2VBc09iamVjdChnZXRDbGFzcygpLCAidHJhbnNhY3Rpb24tdHJhbnNmZXIuanNvbiIpOwoK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yYWJiaXRtcS5jbGllbnQuQU1RUDsK</text>
+        <text encoding="base64">ICAgIGQKICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Stocks/Futures/g</text>
