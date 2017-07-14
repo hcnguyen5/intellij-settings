@@ -3986,6 +3986,12 @@
         <mark key="." line="76" column="28" />
         <mark key="^" line="76" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-server-java/src/test/java/com/tastyworks/orderchains/mq/MqConsumerTest.java" timestamp="1500040020719">
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/tastyworks/amargination/src/main/java/com/tastyworks/margin/matcher/ButterflyMatcher.java" timestamp="1491407392516">
         <mark key="[" line="125" column="27" />
         <mark key="]" line="125" column="51" />
@@ -6489,6 +6495,13 @@
         <mark key="]" line="116" column="23" />
         <mark key="." line="116" column="23" />
         <mark key="^" line="116" column="23" />
+      </file>
+      <file name="/fragment.java" timestamp="1500039680807">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="15" />
+        <mark key="o" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/trade/table/control/overlay/PositionsView.java" timestamp="1473891684391">
         <mark key="[" line="24" column="98" />
@@ -15336,8 +15349,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQodHJhbnNhY3Rpb24uZ2V0VHJhbnNhY3Rpb25UeXBlKCksIGlzKFRyYW5zYWN0aW9uVHlwZS5SRUNFSVZFX0RFTElWRVIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="c" type="4">
         <text>w</text>
@@ -15346,7 +15359,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>RECEIVE_DELIVER</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -15358,28 +15371,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQodHJhbnNhY3Rpb24uZ2V0VHJhbnNhY3Rpb25UeXBlKCksIGlzKFRyYW5zYWN0aW9uVHlwZS5SRUNFSVZFX0RFTElWRVIpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yYWJiaXRtcS5jbGllbnQuQU1RUDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYW5uZWxzLkNoYW5uZWw7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodHJhbnNhY3Rpb24uZ2V0VHJhbnNhY3Rpb25UeXBlKCksIGlzKFRyYW5zYWN0aW9uVHlwZS5SRUNFSVZFX0RFTElWRVIpKTsK</text>
+      </register>
+      <register name="4" type="4">
         <text>Action.SELL_TO_OPEN</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Sell to Open</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRCdXMucG9zdChuZXcgQnJva2VyYWdlU2Vzc2lvbkluaXRpYWxpemVkRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBIQUNLIG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRCdXMucG9zdChuZXcgQnJva2VyYWdlU2Vzc2lvbkluaXRpYWxpemVkRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15401,13 +15414,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcFR3U2Vzc2lvbi5zZXRGdXR1cmVzRW5hYmxlZChmdXR1cmVzQWNjb3VudCAhPSBudWxsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcFR3U2Vzc2lvbi5zZXRGdXR1cmVzRW5hYmxlZChmdXR1cmVzQWNjb3VudCAhPSBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBIQUNLIG8K</text>
       </register>
       <register name=":" type="4">
         <text>s/Stocks/Futures/g</text>
