@@ -2218,7 +2218,7 @@
         <mark key="^" line="31" column="1" />
         <mark key="." line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/config/release/logback.xml" timestamp="1500050285561" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/config/release/logback.xml" timestamp="1500052423593" />
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/util/ArrayProxy.java" timestamp="1483727229811">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="9" column="85" />
@@ -3440,11 +3440,11 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="47" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderInfoSidebar.java" timestamp="1498682731403">
-        <mark key="[" line="100" column="14" />
-        <mark key="]" line="100" column="21" />
-        <mark key="^" line="100" column="21" />
-        <mark key="." line="100" column="21" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderInfoSidebar.java" timestamp="1500052582279">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="43" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="39" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/dx/net/DXFeedStreamer.java" timestamp="1493215923458">
         <mark key="[" line="97" column="9" />
@@ -6017,12 +6017,12 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/javafx/boule/ReadOnlyPropertyAdapter.java" timestamp="1500048612741">
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/javafx/boule/ReadOnlyPropertyAdapter.java" timestamp="1500053281758">
         <mark key="'" line="112" column="42" />
-        <mark key="[" line="123" column="35" />
-        <mark key="]" line="124" column="28" />
+        <mark key="[" line="112" column="56" />
+        <mark key="]" line="112" column="56" />
         <mark key="^" line="124" column="28" />
-        <mark key="." line="124" column="28" />
+        <mark key="." line="112" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie-test/src/main/java/com.dough.test/ObserverCounter.java" timestamp="1467831747037">
         <mark key="[" line="31" column="5" />
@@ -6349,7 +6349,7 @@
         <mark key="^" line="30" column="84" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1500048784308">
+      <file name="/fragment.java" timestamp="1500053454248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -9813,6 +9813,12 @@
         <mark key="]" line="13" column="40" />
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/overlay/ActiveTraderFocusLine.java" timestamp="1500053953394">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="120" />
+        <mark key="." line="108" column="22" />
+        <mark key="^" line="108" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/dough-android-lib/lib/src/main/java/com/dough/android/service/conflate/ScheduleQuoteQueue.java" timestamp="1451940632556">
         <mark key="[" line="22" column="0" />
@@ -13830,11 +13836,10 @@
         <mark key="." line="10" column="62" />
         <mark key="^" line="10" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/javafx/util/LayoutUtil.java" timestamp="1498257006979">
-        <mark key="[" line="74" column="59" />
-        <mark key="]" line="74" column="68" />
-        <mark key="." line="74" column="68" />
-        <mark key="^" line="74" column="68" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/javafx/util/LayoutUtil.java" timestamp="1500052536148">
+        <mark key="]" line="86" column="21" />
+        <mark key="." line="86" column="21" />
+        <mark key="^" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/util/AppIconUtil.java" timestamp="1478016152972">
         <mark key="[" line="21" column="4" />
@@ -15083,8 +15088,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJlbnRUYXJnZXRDaGlsZHJlbi5hZGRMaXN0ZW5lcigoTGlzdENoYW5nZUxpc3RlbmVyPD8gc3VwZXIgTm9kZT4pIGV2ZW50IC0+IHVwZGF0ZUFuY2hvcnNTY2hlZHVsZXIuc2NoZWR1bGUoKSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>w</text>
@@ -15093,13 +15098,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>createScheduleOnce</text>
       </register>
       <register name="/" type="4">
         <text>changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIENoYW5nZUxpc3RlbmVyPFF1b3RlPiBxdW90ZUNoYW5nZUxpc3RlbmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnRUYXJnZXRDaGlsZHJlbi5hZGRMaXN0ZW5lcigoTGlzdENoYW5nZUxpc3RlbmVyPD8gc3VwZXIgTm9kZT4pIGV2ZW50IC0+IHVwZGF0ZUFuY2hvcnNTY2hlZHVsZXIuc2NoZWR1bGUoKSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
