@@ -15,7 +15,7 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1499983830284">
+      <file name="/a.dummy" timestamp="1499990253163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tastyworks/amargination/src/test/java/com/tastyworks/margin/matcher/VerticalLongCallMatcherTest.java" timestamp="1485387611320">
@@ -146,6 +146,13 @@
         <mark key="]" line="19" column="59" />
         <mark key="." line="19" column="59" />
         <mark key="^" line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/build.gradle" timestamp="1499721356518">
+        <mark key="'" line="377" column="49" />
+        <mark key="[" line="394" column="86" />
+        <mark key="]" line="394" column="103" />
+        <mark key="." line="394" column="103" />
+        <mark key="^" line="394" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderTableViewSkin.java" timestamp="1498243227887">
         <mark key="[" line="17" column="53" />
@@ -278,6 +285,12 @@
         <mark key="]" line="35" column="32" />
         <mark key="^" line="40" column="73" />
         <mark key="." line="35" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/tablecell/PositionWorkingCell.java" timestamp="1499987625174">
+        <mark key="[" line="33" column="50" />
+        <mark key="]" line="33" column="51" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/dough/dough-boulangerie-tw/src/main/java/com/dough/tw/parser/TwOrderStatusParser.java" timestamp="1499724786015">
         <mark key="[" line="117" column="30" />
@@ -462,6 +475,13 @@
         <mark key="^" line="45" column="80" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-lib-java/src/main/java/com/tastyworks/orderchains/model/YearProfitLossEntry.java" timestamp="1499803574705">
+        <mark key="'" line="21" column="59" />
+        <mark key="[" line="72" column="3" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/test/java/com/dough/desktop/launcher/util/RemoteManifestUtilExperiment.java" timestamp="1480974397560">
         <mark key="[" line="60" column="39" />
         <mark key="]" line="50" column="13" />
@@ -591,6 +611,13 @@
         <mark key="^" line="84" column="33" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/model/Account.java" timestamp="1499989572363">
+        <mark key="'" line="92" column="44" />
+        <mark key="[" line="431" column="5" />
+        <mark key="]" line="92" column="44" />
+        <mark key="^" line="92" column="44" />
+        <mark key="." line="92" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/resources/com/dough/desktop/control/position/position.xml" timestamp="1466196965316">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="66" />
@@ -663,10 +690,11 @@
         <mark key="^" line="58" column="55" />
         <mark key="." line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/tablecell/BasisCell.java" timestamp="1499981747601">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/tablecell/BasisCell.java" timestamp="1499989667212">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/trade/table/model/ProTableSelectableDataColumn.java" timestamp="1474645225388">
         <mark key="[" line="7" column="91" />
@@ -814,6 +842,13 @@
         <mark key="]" line="14" column="24" />
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/ui/orderEntry/activetrader/ActiveTraderUnderlyingEntryManager.java" timestamp="1499451490160">
+        <mark key="'" line="86" column="48" />
+        <mark key="[" line="231" column="51" />
+        <mark key="]" line="231" column="54" />
+        <mark key="." line="231" column="54" />
+        <mark key="^" line="231" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/test/java/com/dough/pop/OptionProbabilityTest.java" timestamp="1458145427293">
         <mark key="[" line="6" column="0" />
@@ -1565,6 +1600,11 @@
         <mark key="^" line="38" column="49" />
         <mark key="." line="38" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/tw/manager/TwSessionManager.java" timestamp="1499990273397">
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="." line="265" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/scss/trade/activeTrader/_infoSidebar.scss" timestamp="1497905788265">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="15" />
@@ -1784,12 +1824,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" timestamp="1499987159317">
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" timestamp="1499987649963">
         <mark key="'" line="104" column="14" />
-        <mark key="[" line="110" column="10" />
-        <mark key="]" line="110" column="20" />
-        <mark key="." line="110" column="20" />
-        <mark key="^" line="110" column="20" />
+        <mark key="[" line="118" column="24" />
+        <mark key="]" line="118" column="24" />
+        <mark key="." line="118" column="24" />
+        <mark key="^" line="118" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/tastyworks/account-FIX-service/src/main/java/com/tastyworks/fixdropcopy/DropCopyTask.java" timestamp="1481402331583">
         <mark key="[" line="5" column="26" />
@@ -2559,6 +2599,13 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/amargination-server/src/test/java/com/tastyworks/margin/test/EnsureMarginRequirementsForAccounts.java" timestamp="1498490956994">
+        <mark key="'" line="37" column="106" />
+        <mark key="[" line="114" column="24" />
+        <mark key="]" line="113" column="8" />
+        <mark key="^" line="113" column="8" />
+        <mark key="." line="113" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/trade/util/AccountUtil.java" timestamp="1475262872032">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="10" />
@@ -2636,6 +2683,13 @@
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-lib-java/src/main/java/com/tastyworks/orderchains/model/HistoricDayGainEntry.java" timestamp="1499806453721">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="45" column="79" />
+        <mark key="]" line="46" column="87" />
+        <mark key="^" line="46" column="87" />
+        <mark key="." line="46" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/trade/curve/control/GutterColumn.java" timestamp="1475171727567">
         <mark key="[" line="42" column="26" />
@@ -2762,6 +2816,13 @@
         <mark key="]" line="369" column="8" />
         <mark key="." line="369" column="8" />
         <mark key="^" line="369" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/model/PositionTableSortManager.java" timestamp="1499266290183">
+        <mark key="'" line="42" column="21" />
+        <mark key="[" line="88" column="90" />
+        <mark key="]" line="89" column="27" />
+        <mark key="^" line="89" column="27" />
+        <mark key="." line="89" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/tastyworks/charcuterie/src/test/java/com/tastyworks/instrument/InstrumentFormatterTest.java" timestamp="1490135273614">
         <mark key="[" line="18" column="52" />
@@ -3110,6 +3171,13 @@
         <mark key="]" line="35" column="3" />
         <mark key="^" line="35" column="3" />
         <mark key="." line="35" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie-tw/src/main/java/com/dough/tw/net/AppTwSession.java" timestamp="1499989808166">
+        <mark key="'" line="17" column="44" />
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/javafx/validation/ValidatationHelper.java" timestamp="1465932524868">
         <mark key="[" line="60" column="11" />
@@ -3885,6 +3953,20 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/util/TwSymbolUtil.java" timestamp="1499725002063">
+        <mark key="'" line="240" column="17" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/control/StockOnlyControlsView.java" timestamp="1499894264978">
+        <mark key="'" line="38" column="38" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="71" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/dxchart/swing/DxPopup.java" timestamp="1482099529013">
         <mark key="[" line="45" column="52" />
         <mark key="]" line="16" column="72" />
@@ -4545,6 +4627,13 @@
         <mark key="^" line="35" column="12" />
         <mark key="." line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/ui/orderEntry/activetrader/ActiveTraderOrderEntryMutator.java" timestamp="1499964453004">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="152" column="13" />
+        <mark key="]" line="152" column="13" />
+        <mark key="." line="152" column="13" />
+        <mark key="^" line="152" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/util/PaginationRequest.java" timestamp="1493246929597">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="9" column="23" />
@@ -4610,6 +4699,13 @@
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/model/OrderEntryActiveTraderRowEntry.java" timestamp="1499977868508">
+        <mark key="'" line="51" column="110" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+        <mark key="^" line="64" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/util/DisclaimerUtil.java" timestamp="1488920381963">
         <mark key="[" line="33" column="21" />
@@ -4821,6 +4917,13 @@
         <mark key="." line="100" column="18" />
         <mark key="^" line="100" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/control/OrderEntryPriceInputField.java" timestamp="1499704841191">
+        <mark key="'" line="126" column="12" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="88" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="83" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/model/PositionTablePositionRowEntry.java" timestamp="1499097944287">
         <mark key="[" line="14" column="64" />
         <mark key="]" line="14" column="64" />
@@ -4862,6 +4965,13 @@
         <mark key="]" line="40" column="23" />
         <mark key="^" line="40" column="23" />
         <mark key="." line="40" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderColumnFactory.java" timestamp="1498761951537">
+        <mark key="'" line="22" column="70" />
+        <mark key="[" line="60" column="52" />
+        <mark key="]" line="57" column="103" />
+        <mark key="." line="57" column="103" />
+        <mark key="^" line="57" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/tastyworks/amargination-server/src/main/java/com/tastyworks/margin/processor/actor/AccountActorSupervisor.java" timestamp="1489520427974">
         <mark key="[" line="38" column="27" />
@@ -5157,6 +5267,13 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-lib-java/src/test/java/com/tastyworks/orderchains/service/EquityYearProfitLossServiceTest.java" timestamp="1499809044914">
+        <mark key="'" line="90" column="6" />
+        <mark key="[" line="447" column="26" />
+        <mark key="]" line="447" column="43" />
+        <mark key="^" line="447" column="43" />
+        <mark key="." line="447" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/tastyworks/customer-account-websocket-java/src/main/java/com/tastyworks/logger/LoggerInitialize.java" timestamp="1453914267390">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="5" column="74" />
@@ -5168,6 +5285,13 @@
         <mark key="]" line="68" column="0" />
         <mark key="^" line="49" column="33" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/control/WorkingOrderRowView.java" timestamp="1499725488734">
+        <mark key="'" line="36" column="44" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dough-fifty-percent-pop/src/test/java/com/dough/fiftypercentpop/jms/RequestConverterTest.java" timestamp="1464036624393">
         <mark key="[" line="37" column="8" />
@@ -5309,6 +5433,13 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_visualizerContainer.scss" timestamp="1499973815937">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/control/WebViewJfx.java" timestamp="1493818872522">
         <mark key="[" line="47" column="8" />
@@ -5559,9 +5690,6 @@
         <mark key="." line="112" column="80" />
         <mark key="^" line="112" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/resources/com/dough/desktop/control/position/columns.properties" timestamp="1499888241579">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/test/java/com/dough/profitability/StockProfitabilityTest.java" timestamp="1481307031820">
         <mark key="[" line="64" column="57" />
         <mark key="]" line="64" column="70" />
@@ -5585,6 +5713,13 @@
         <mark key="]" line="69" column="6" />
         <mark key="." line="69" column="6" />
         <mark key="^" line="63" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/model/PositionEntry.java" timestamp="1499961055489">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="569" column="47" />
+        <mark key="]" line="570" column="11" />
+        <mark key="." line="570" column="11" />
+        <mark key="^" line="570" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/manager/SoundEffectsManager.java" timestamp="1480470221447">
         <mark key="[" line="47" column="20" />
@@ -5723,6 +5858,13 @@
         <mark key="]" line="62" column="46" />
         <mark key="." line="62" column="46" />
         <mark key="^" line="44" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_priceGraph.scss" timestamp="1499972828809">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/messagecenter/MessageDateFormatter.java" timestamp="1480448444723">
         <mark key="[" line="20" column="44" />
@@ -6048,6 +6190,13 @@
         <mark key="." line="12" column="56" />
         <mark key="^" line="12" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/test/java/com/dough/ui/orderEntry/activetrader/ActiveTraderOrderEntryMutatorTest.java" timestamp="1498688763786">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="62" column="63" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="101" column="63" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/appsettings/SettingsGroupCell.java" timestamp="1477599680177">
         <mark key="[" line="9" column="32" />
         <mark key="]" line="10" column="68" />
@@ -6327,6 +6476,13 @@
         <mark key="^" line="30" column="84" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/controls/_orderHistory.scss" timestamp="1499729576814">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="116" column="20" />
+        <mark key="]" line="116" column="23" />
+        <mark key="." line="116" column="23" />
+        <mark key="^" line="116" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/trade/table/control/overlay/PositionsView.java" timestamp="1473891684391">
         <mark key="[" line="24" column="98" />
         <mark key="]" line="25" column="24" />
@@ -6561,6 +6717,13 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/ui/orderEntry/manager/OrderEntryOptionChainState.java" timestamp="1499717066883">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="267" column="69" />
+        <mark key="]" line="267" column="85" />
+        <mark key="." line="267" column="85" />
+        <mark key="^" line="267" column="85" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/service/IvRankHistoryService.java" timestamp="1462985567818">
         <mark key="[" line="51" column="55" />
         <mark key="]" line="52" column="80" />
@@ -6716,6 +6879,13 @@
         <mark key="]" line="21" column="14" />
         <mark key="^" line="26" column="16" />
         <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/model/PositionTableRowManagerImpl1.java" timestamp="1499101691130">
+        <mark key="'" line="237" column="48" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="234" column="30" />
+        <mark key="^" line="107" column="94" />
+        <mark key="." line="107" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/scss/controls/_liveMediaStream.scss" timestamp="1475261137919">
         <mark key="[" line="3" column="4" />
@@ -7330,6 +7500,11 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie-tw/src/main/java/com/dough/tw/parser/TwTradingStatusParser.java" timestamp="1499989625732">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/trade/model/NumericDirection.java" timestamp="1481746327390">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="3" column="26" />
@@ -7708,6 +7883,13 @@
         <mark key="." line="15" column="77" />
         <mark key="^" line="15" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/manager/UnderlyingEntriesToRowEntriesManager.java" timestamp="1499461173971">
+        <mark key="'" line="71" column="36" />
+        <mark key="[" line="213" column="5" />
+        <mark key="]" line="215" column="69" />
+        <mark key="." line="215" column="69" />
+        <mark key="^" line="215" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/app/src/main/java/com/dough/desktop/config/DesktopAppModule.java" timestamp="1464975148606">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="27" />
@@ -7755,6 +7937,13 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/test/java/com/dough/trade/util/TwSymbolUtilTest.java" timestamp="1499782877226">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="273" column="108" />
+        <mark key="]" line="273" column="107" />
+        <mark key="." line="273" column="107" />
+        <mark key="^" line="273" column="107" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/parser/PreferenceParser.java" timestamp="1488915244198">
         <mark key="[" line="24" column="0" />
@@ -8049,6 +8238,13 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/ui/orderEntry/manager/OrderEntryManager.java" timestamp="1499890886007">
+        <mark key="'" line="392" column="24" />
+        <mark key="[" line="428" column="0" />
+        <mark key="]" line="428" column="0" />
+        <mark key="." line="428" column="0" />
+        <mark key="^" line="432" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/net/StompMessage.java" timestamp="1479156103686">
         <mark key="[" line="28" column="0" />
@@ -8605,6 +8801,13 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderCostBasisView.java" timestamp="1498161114443">
+        <mark key="'" line="75" column="12" />
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="37" column="44" />
+        <mark key="^" line="37" column="44" />
+        <mark key="." line="37" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-order-chains-server/src/main/java/com/dough/orderchains/web/route/BaseRoute.java" timestamp="1463068749889">
         <mark key="[" line="70" column="11" />
         <mark key="]" line="70" column="19" />
@@ -8670,6 +8873,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/test/java/com/dough/ui/orderEntry/activetrader/ActiveTraderOrderEntryHelperTest.java" timestamp="1498227631335">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="47" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/appsettings/TradeOptionsSettingsView.java" timestamp="1490390636144">
         <mark key="[" line="75" column="0" />
@@ -9187,6 +9397,13 @@
         <mark key="^" line="43" column="3" />
         <mark key="." line="43" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-lib-java/src/main/java/com/tastyworks/orderchains/model/ProfitLossResult.java" timestamp="1499806357706">
+        <mark key="'" line="41" column="19" />
+        <mark key="[" line="145" column="3" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
+        <mark key="^" line="41" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/tastyworks/amargination-server/src/main/java/com/tastyworks/margin/quote/impl/RedisQuoteService.java" timestamp="1489019998436">
         <mark key="[" line="54" column="118" />
         <mark key="]" line="54" column="7" />
@@ -9490,6 +9707,13 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-lib-java/src/test/resources/com/tastyworks/orderchains/service/3901-spy-transaction.json" timestamp="1498574490378">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1976" column="0" />
+        <mark key="]" line="1976" column="0" />
+        <mark key="^" line="1976" column="0" />
+        <mark key="." line="1976" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/javafx/control/SimpleTableCell.java" timestamp="1473436710071">
         <mark key="[" line="53" column="32" />
         <mark key="]" line="53" column="39" />
@@ -9567,6 +9791,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/javafx/control/SimpleTableColumn.java" timestamp="1498082791807">
+        <mark key="'" line="261" column="4" />
+        <mark key="[" line="251" column="5" />
+        <mark key="]" line="252" column="3" />
+        <mark key="^" line="252" column="3" />
+        <mark key="." line="252" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/tastyworks/charcuterie/src/main/java/com/tastyworks/util/CostUtil.java" timestamp="1487436712121">
         <mark key="[" line="21" column="13" />
@@ -9882,6 +10113,13 @@
         <mark key="]" line="105" column="38" />
         <mark key="." line="105" column="38" />
         <mark key="^" line="105" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/model/PositionTableRowManager.java" timestamp="1499261769770">
+        <mark key="'" line="285" column="11" />
+        <mark key="[" line="32" column="51" />
+        <mark key="]" line="32" column="53" />
+        <mark key="." line="32" column="53" />
+        <mark key="^" line="32" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/ui/net/DoughStockStreamerManager.java" timestamp="1490883579667">
         <mark key="[" line="81" column="30" />
@@ -10432,6 +10670,13 @@
         <mark key="." line="42" column="99" />
         <mark key="^" line="42" column="99" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/charcuterie/src/test/java/com/tastyworks/account/deser/TransactionParserTest.java" timestamp="1498577993543">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="109" column="5" />
+        <mark key="." line="109" column="5" />
+        <mark key="^" line="109" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/tastyworks/tastyworks-identity-permissions-enforcer-java/src/main/java/com/tastyworks/identityPermissionsEnforcer/IdentityPermissionsEnforcerService.java" timestamp="1464119459772">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -10449,6 +10694,13 @@
         <mark key="]" line="25" column="3" />
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-lib-java/src/main/java/com/tastyworks/orderchains/service/ProfitLossContext.java" timestamp="1499877290471">
+        <mark key="'" line="35" column="9" />
+        <mark key="[" line="88" column="50" />
+        <mark key="]" line="88" column="50" />
+        <mark key="^" line="90" column="45" />
+        <mark key="." line="88" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/orderEntry/builder/Context.java" timestamp="1480364006338">
         <mark key="[" line="47" column="89" />
@@ -11050,6 +11302,13 @@
         <mark key="." line="20" column="66" />
         <mark key="^" line="20" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderOrderEntryView.java" timestamp="1499969530213">
+        <mark key="'" line="96" column="57" />
+        <mark key="[" line="64" column="44" />
+        <mark key="]" line="64" column="44" />
+        <mark key="." line="64" column="44" />
+        <mark key="^" line="64" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/trade/model/OrderStatusLegs.java" timestamp="1472072364432">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="17" column="38" />
@@ -11331,6 +11590,13 @@
         <mark key="^" line="123" column="74" />
         <mark key="." line="123" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/tastyworks/order-chains-lib-java/src/test/java/com/tastyworks/orderchains/service/EquityYearProfitLossServiceStockTest.java" timestamp="1499809011743">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="46" column="62" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/tastyworks/order-chains-server-java/src/main/java/com/tastyworks/orderchains/couchbase/CouchbaseDao.java" timestamp="1487198469563">
         <mark key="[" line="159" column="44" />
         <mark key="]" line="159" column="44" />
@@ -11397,8 +11663,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" timestamp="1499985110364">
-        <mark key="'" line="69" column="24" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" timestamp="1499987518856">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="122" column="28" />
+        <mark key="]" line="122" column="28" />
+        <mark key="." line="122" column="28" />
+        <mark key="^" line="122" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/trade/model/SecurityEntryAdapter.java" timestamp="1481053066023">
         <mark key="[" line="107" column="48" />
@@ -11904,7 +12174,7 @@
         <mark key="^" line="34" column="63" />
         <mark key="." line="34" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499987135627">
+      <file name="/Dummy.txt" timestamp="1499990295040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/ui/orderEntry/util/SimplePriceStepConfig.java" timestamp="1498688735140">
@@ -12714,6 +12984,13 @@
         <mark key="^" line="134" column="18" />
         <mark key="." line="134" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/model/PositionTableRowManagerImpl2.java" timestamp="1499266253292">
+        <mark key="'" line="86" column="23" />
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="25" />
+        <mark key="^" line="88" column="23" />
+        <mark key="." line="88" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie-tw/src/main/java/com/dough/tw/streamer/StreamerEventHandler.java" timestamp="1482687175620">
         <mark key="[" line="9" column="71" />
         <mark key="]" line="9" column="69" />
@@ -13296,6 +13573,13 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/manager/PositionTableSortManager.java" timestamp="1499968967268">
+        <mark key="'" line="58" column="12" />
+        <mark key="[" line="138" column="56" />
+        <mark key="]" line="138" column="69" />
+        <mark key="." line="138" column="69" />
+        <mark key="^" line="138" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/tw/control/EmployeeInfoView.java" timestamp="1480357944661">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="21" />
@@ -13397,6 +13681,13 @@
         <mark key="]" line="41" column="26" />
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/service/AccountService.java" timestamp="1499282731966">
+        <mark key="'" line="13" column="17" />
+        <mark key="[" line="56" column="94" />
+        <mark key="]" line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/trade/table/ProTableController.java" timestamp="1485808344612">
         <mark key="[" line="389" column="5" />
@@ -13844,9 +14135,6 @@
         <mark key="]" line="52" column="22" />
         <mark key="^" line="52" column="22" />
         <mark key="." line="52" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/resources/com/dough/desktop/app.css" timestamp="1499987014028">
-        <mark key="'" line="2142" column="142" />
       </file>
       <file name="$USER_HOME$/workspace/dough-order-chains-lib/src/main/java/com/dough/orderchains/compute/ComputeIVIndexAndRankSnapshots.java" timestamp="1458074658600">
         <mark key="[" line="18" column="0" />
@@ -14367,6 +14655,13 @@
         <mark key="^" line="74" column="77" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/position/SimplePositionStatistics.java" timestamp="1499888718984">
+        <mark key="'" line="334" column="39" />
+        <mark key="[" line="57" column="63" />
+        <mark key="]" line="57" column="65" />
+        <mark key="^" line="57" column="65" />
+        <mark key="." line="57" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/trade/activetrader/control/ActiveTraderOrderEntryControlsView.java" timestamp="1496425746504">
         <mark key="[" line="32" column="12" />
         <mark key="]" line="32" column="12" />
@@ -14460,6 +14755,13 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/model/PositionTableState.java" timestamp="1499968947913">
+        <mark key="'" line="53" column="3" />
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/tda/config/TdaTradingModule.java" timestamp="1471290462243">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -14526,6 +14828,13 @@
         <mark key="^" line="86" column="23" />
         <mark key="." line="86" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/ui/orderEntry/util/FuturesPriceStepConfig.java" timestamp="1499958513556">
+        <mark key="'" line="50" column="54" />
+        <mark key="[" line="70" column="83" />
+        <mark key="]" line="72" column="42" />
+        <mark key="." line="72" column="42" />
+        <mark key="^" line="72" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/dough-boulangerie/src/main/java/com/dough/boule/Eventer.java" timestamp="1470943266231">
         <mark key="[" line="88" column="23" />
         <mark key="]" line="88" column="23" />
@@ -14579,6 +14888,13 @@
         <mark key="]" line="7" column="41" />
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/PositionView.java" timestamp="1499990084009">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+        <mark key="^" line="91" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/dough-desktop/src/main/java/com/dough/desktop/control/positiondetail/control/PositionDetailTableSkin.java" timestamp="1478562938076">
         <mark key="[" line="15" column="0" />
@@ -14778,11 +15094,11 @@
         <mark key="^" line="62" column="37" />
         <mark key="." line="62" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/PositionController.java" timestamp="1499968985327">
-        <mark key="[" line="100" column="27" />
-        <mark key="]" line="100" column="50" />
-        <mark key="^" line="100" column="50" />
-        <mark key="." line="100" column="50" />
+      <file name="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/PositionController.java" timestamp="1499990070182">
+        <mark key="[" line="166" column="39" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dough_iv_calc_server/.gitignore" timestamp="1464042587344">
         <mark key="[" line="35" column="5" />
@@ -14906,16 +15222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="44" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/generated/com/dough/dx/net/DXFeedStreamer.h" />
-      <jump line="54" column="24" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/generated/com/dough/dx/net/DXFeedStreamer.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/Common/Config/DoughAppContext.h" />
-      <jump line="155" column="64" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/Common/Config/DoughAppContext.h" />
-      <jump line="11" column="43" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/Common/Config/DoughAppContext.m" />
-      <jump line="134" column="65" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/Common/Config/DoughAppContext.m" />
-      <jump line="352" column="43" filename="$USER_HOME$/workspace/dough/dough-boulangerie/ios/Classes/Common/Config/DoughAppContext.m" />
-      <jump line="10" column="13" filename="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/position/SummaryPositionStatistics.java" />
-      <jump line="347" column="32" filename="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/position/SummaryPositionStatistics.java" />
-      <jump line="20" column="53" filename="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/position/SummaryPositionStatistics.java" />
       <jump line="82" column="30" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/manager/PositionTableSortManager.java" />
       <jump line="57" column="12" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/java/com/dough/desktop/control/position/manager/PositionTableSortManager.java" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/dough/dough-desktop/build.gradle" />
@@ -15006,13 +15312,23 @@
       <jump line="100" column="14" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
       <jump line="104" column="14" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/trade/activeTrader/_table.scss" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/dough/dough-boulangerie-tw/src/main/java/com/dough/tw/service/TwAccountService.java" />
+      <jump line="25" column="40" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="49" column="23" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="70" column="26" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="71" column="33" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="101" column="34" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="120" column="25" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="45" column="23" filename="$USER_HOME$/workspace/dough/dough-desktop/src/main/scss/settings/colors/_mappings.scss" />
+      <jump line="286" column="25" filename="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/model/Account.java" />
+      <jump line="92" column="44" filename="$USER_HOME$/workspace/dough/dough-boulangerie/src/main/java/com/dough/trade/model/Account.java" />
+      <jump line="17" column="44" filename="$USER_HOME$/workspace/dough/dough-boulangerie-tw/src/main/java/com/dough/tw/net/AppTwSession.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>w</text>
@@ -15021,40 +15337,40 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>numeric-cell</text>
+        <text>future</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUd0h0dHBDbGllbnQgaHR0cENsaWVudCwKICAgICAgICBUd09yZGVyU3RhdHVzU2VydmljZSBvcmRlclN0YXR1c1NlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQuc2V0Um91bmRUcmlwcyhzb3VyY2UuZ2V0SW50KCJkYXktdHJhZGUtY291bnQiKSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRCdXMucG9zdChuZXcgQnJva2VyYWdlU2Vzc2lvbkluaXRpYWxpemVkRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAudGV4dCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBIQUNLIG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLWZ4LXRleHQtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcFR3U2Vzc2lvbi5zZXRGdXR1cmVzRW5hYmxlZChmdXR1cmVzQWNjb3VudCAhPSBudWxsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nQmluZGFibGUuYmluZChpdGVtUHJvcGVydHkoKS4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcFR3U2Vzc2lvbi5zZXRGdXR1cmVzRW5hYmxlZChmdXR1cmVzQWNjb3VudCAhPSBudWxsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb3dUeXBlQmluZGFibGUgPSBQc2V1ZG9VdGlsLmJpbmRhYmxlKHRoaXMsIFBzZXVkb1V0aWwuSElHSExJR0hURUQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -15082,16 +15398,16 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHNldWRvVXRpbC5CaW5kYWJsZSByb3dUeXBlQmluZGFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/Stocks/Futures/g</text>
       </register>
     </registers>
     <search>
-      <last-search>numeric-cell</last-search>
+      <last-search>future</last-search>
       <last-offset />
-      <last-pattern>numeric-cell</last-pattern>
+      <last-pattern>future</last-pattern>
       <last-replace>Futures</last-replace>
       <last-substitute>Stocks</last-substitute>
       <last-dir>1</last-dir>
@@ -15099,8 +15415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lgog</entry>
-        <entry>logg</entry>
         <entry>effect</entry>
         <entry>-fx-font</entry>
         <entry encoding="base64">IA==</entry>
@@ -15119,6 +15433,8 @@
         <entry>column-ask</entry>
         <entry>text-fil</entry>
         <entry>numeric-cell</entry>
+        <entry>yellow</entry>
+        <entry>future</entry>
       </history-search>
       <history-cmd>
         <entry>s/:filled/</entry>
